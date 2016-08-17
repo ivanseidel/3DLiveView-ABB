@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/basic_fshader.glsl</file>
+        <file>shaders/basic_vshader.glsl</file>
+        <file>shaders/advanced_vshader.glsl</file>
+        <file>shaders/advanced_fshader.glsl</file>
+        <file>models/IRB140_BASE.STL</file>
+        <file>models/IRB140_LINK1.STL</file>
+        <file>models/IRB140_LINK2.STL</file>
+        <file>models/IRB140_LINK3.STL</file>
+        <file>models/IRB140_LINK4.STL</file>
+        <file>models/IRB140_LINK5.STL</file>
+        <file>models/IRB140_LINK6.STL</file>
+        <file>models/IRB140_LINK1_MOTORS.STL</file>
+        <file>shaders/background_fshader.glsl</file>
+        <file>shaders/background_vshader.glsl</file>
+        <file>textures/background_mountains.jpg</file>
+        <file>textures/floor.jpg</file>
+    </qresource>
+</RCC>
